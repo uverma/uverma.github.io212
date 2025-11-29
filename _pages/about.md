@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://researcher.manipal.edu/en/persons/ujjwal-verma/'>Manipal Institute of Technology, India</a>. 
+subtitle: <a href='https://researcher.manipal.edu/en/persons/ujjwal-verma/'> Manipal Institute of Technology, India</a>. 
 
 profile:
   align: right
