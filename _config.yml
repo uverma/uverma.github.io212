@@ -192,6 +192,9 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/blog.md
+  - _projects/?_project.md
+  - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
   - .nojekyll
